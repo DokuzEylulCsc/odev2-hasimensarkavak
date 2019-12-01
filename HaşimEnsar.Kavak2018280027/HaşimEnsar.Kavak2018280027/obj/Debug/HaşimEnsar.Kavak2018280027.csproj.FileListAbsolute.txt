@@ -1,9 +1,0 @@
-C:\Users\hensa\OneDrive\Masaüstü\projeler\HaşimEnsar.Kavak2018280027\HaşimEnsar.Kavak2018280027\bin\Debug\HaşimEnsar.Kavak2018280027.exe.config
-C:\Users\hensa\OneDrive\Masaüstü\projeler\HaşimEnsar.Kavak2018280027\HaşimEnsar.Kavak2018280027\bin\Debug\HaşimEnsar.Kavak2018280027.exe
-C:\Users\hensa\OneDrive\Masaüstü\projeler\HaşimEnsar.Kavak2018280027\HaşimEnsar.Kavak2018280027\bin\Debug\HaşimEnsar.Kavak2018280027.pdb
-C:\Users\hensa\OneDrive\Masaüstü\projeler\HaşimEnsar.Kavak2018280027\HaşimEnsar.Kavak2018280027\obj\Debug\HaşimEnsar.Kavak2018280027.csprojAssemblyReference.cache
-C:\Users\hensa\OneDrive\Masaüstü\projeler\HaşimEnsar.Kavak2018280027\HaşimEnsar.Kavak2018280027\obj\Debug\HaşimEnsar.Kavak2018280027.Form1.resources
-C:\Users\hensa\OneDrive\Masaüstü\projeler\HaşimEnsar.Kavak2018280027\HaşimEnsar.Kavak2018280027\obj\Debug\HaşimEnsar.Kavak2018280027.Properties.Resources.resources
-C:\Users\hensa\OneDrive\Masaüstü\projeler\HaşimEnsar.Kavak2018280027\HaşimEnsar.Kavak2018280027\obj\Debug\HaşimEnsar.Kavak2018280027.csproj.GenerateResource.cache
-C:\Users\hensa\OneDrive\Masaüstü\projeler\HaşimEnsar.Kavak2018280027\HaşimEnsar.Kavak2018280027\obj\Debug\HaşimEnsar.Kavak2018280027.exe
-C:\Users\hensa\OneDrive\Masaüstü\projeler\HaşimEnsar.Kavak2018280027\HaşimEnsar.Kavak2018280027\obj\Debug\HaşimEnsar.Kavak2018280027.pdb
