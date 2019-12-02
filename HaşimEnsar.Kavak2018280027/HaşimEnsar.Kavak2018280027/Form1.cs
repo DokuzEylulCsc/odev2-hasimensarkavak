@@ -230,20 +230,21 @@ namespace HaşimEnsar.Kavak2018280027
                     }
                     if (sayi < 4000)
                     {
-                        a = 50;//döngüden çıkmak için
+                        
                         tbSayı2.Text = Convert.ToString(sayi);
+                        break;
                     }
                     else
                     {
-                        a = 50;
                         MessageBox.Show("Lütfen 4000 den küçük bir roma rakamı giriniz");
+                        break;
                     }
                 }
                 else
                 {
                     MessageBox.Show("Hatalı giriş yaptınız");
                     tbRoma2.Text = "";
-                    a = 50;
+                    break;
                 }
             }
                 
